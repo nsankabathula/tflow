@@ -1,0 +1,9 @@
+name: tflow
+channels:
+- default
+dependencies:
+- python=3.6
+- pip:
+ - tensorflow-gpu=1.5
+
+
